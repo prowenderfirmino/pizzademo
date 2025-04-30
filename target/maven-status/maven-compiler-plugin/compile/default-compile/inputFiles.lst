@@ -1,0 +1,10 @@
+/home/senac/dev/aula4/pizzademo/src/main/java/com/senac/pizzademo/controller/CardapioController.java
+/home/senac/dev/aula4/pizzademo/src/main/java/com/senac/pizzademo/PizzademoApplication.java
+/home/senac/dev/aula4/pizzademo/src/main/java/com/senac/pizzademo/model/Cardapio.java
+/home/senac/dev/aula4/pizzademo/src/main/java/com/senac/pizzademo/repository/CardapioRepository.java
+/home/senac/dev/aula4/pizzademo/src/main/java/com/senac/pizzademo/model/Pizza.java
+/home/senac/dev/aula4/pizzademo/src/main/java/com/senac/pizzademo/model/Ingredientes.java
+/home/senac/dev/aula4/pizzademo/src/main/java/com/senac/pizzademo/repository/PizzaRepository.java
+/home/senac/dev/aula4/pizzademo/src/main/java/com/senac/pizzademo/controller/IngredientesController.java
+/home/senac/dev/aula4/pizzademo/src/main/java/com/senac/pizzademo/controller/PizzaController.java
+/home/senac/dev/aula4/pizzademo/src/main/java/com/senac/pizzademo/repository/IngredientesRepository.java
